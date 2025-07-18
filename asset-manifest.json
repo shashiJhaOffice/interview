@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shashiJhaOffice/interview/static/css/main.10c0a44c.css",
-    "main.js": "/shashiJhaOffice/interview/static/js/main.e47d84dc.js",
-    "static/js/453.6b35b6eb.chunk.js": "/shashiJhaOffice/interview/static/js/453.6b35b6eb.chunk.js",
-    "index.html": "/shashiJhaOffice/interview/index.html",
-    "main.10c0a44c.css.map": "/shashiJhaOffice/interview/static/css/main.10c0a44c.css.map",
-    "main.e47d84dc.js.map": "/shashiJhaOffice/interview/static/js/main.e47d84dc.js.map",
-    "453.6b35b6eb.chunk.js.map": "/shashiJhaOffice/interview/static/js/453.6b35b6eb.chunk.js.map"
+    "main.css": "/interview/static/css/main.10c0a44c.css",
+    "main.js": "/interview/static/js/main.5b8ffb1f.js",
+    "static/js/453.6b35b6eb.chunk.js": "/interview/static/js/453.6b35b6eb.chunk.js",
+    "index.html": "/interview/index.html",
+    "main.10c0a44c.css.map": "/interview/static/css/main.10c0a44c.css.map",
+    "main.5b8ffb1f.js.map": "/interview/static/js/main.5b8ffb1f.js.map",
+    "453.6b35b6eb.chunk.js.map": "/interview/static/js/453.6b35b6eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10c0a44c.css",
-    "static/js/main.e47d84dc.js"
+    "static/js/main.5b8ffb1f.js"
   ]
 }
