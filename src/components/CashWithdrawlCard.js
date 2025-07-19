@@ -65,7 +65,7 @@ function CashWithdrawalCard() {
       return "Amount must be a multiple of ₹10";
     }
     if (amount > 100000) {
-      return "Maximum withdrawal limit is ₹50,000";
+      return "Maximum withdrawal limit is ₹100,000";
     }
     return null;
   };
